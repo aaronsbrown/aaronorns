@@ -1,5 +1,5 @@
 -- many tomorrows
--- norns study 1
+-- aaronorns study 1
 
 engine.name = "TestSine"
 
