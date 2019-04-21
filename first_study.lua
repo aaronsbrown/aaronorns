@@ -5,7 +5,7 @@ engine.name = "TestSine"
 
 function init()
   position = 0
-  volume = .5
+  volume = .7
   engine.hz(333)
   engine.amp(.1)
   print("the end and the beginning they are the same.")
